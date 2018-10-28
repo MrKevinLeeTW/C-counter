@@ -1,0 +1,31 @@
+C:\Users\wowpa\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.csprojAssemblyReference.cache
+C:\Users\wowpa\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\wowpa\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\wowpa\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.cache
+C:\Users\wowpa\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.csproj.CoreCompileInputs.cache
+C:\Users\wowpa\Desktop\NTTU\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\wowpa\Desktop\NTTU\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\wowpa\Desktop\NTTU\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\wowpa\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\wowpa\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\Msi gf63\Desktop\NTTU\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Msi gf63\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\Msi gf63\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\Msi gf63\Desktop\NTTU\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\Msi gf63\Desktop\NTTU\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\Msi gf63\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Msi gf63\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\Msi gf63\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Msi gf63\Desktop\NTTU\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\Msi gf63\Desktop\10611171_作業3-2\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Msi gf63\Desktop\10611171_作業3-2\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\Msi gf63\Desktop\10611171_作業3-2\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\Msi gf63\Desktop\VS2013\10611171_作業3-2\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Msi gf63\Desktop\VS2013\10611171_作業3-2\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\Msi gf63\Desktop\VS2013\10611171_作業3-2\Timer\Timer\obj\Debug\Timer.pdb
+C:\Users\Msi gf63\Desktop\VS2013\10611171_作業3-2\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\Msi gf63\Desktop\VS2013\10611171_作業3-2\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\Msi gf63\Desktop\VS2013\10611171_作業3-2\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Msi gf63\Desktop\VS2013\10611171_作業3-2\Timer\Timer\obj\Debug\Timer.Form1.resources
+C:\Users\Msi gf63\Desktop\VS2013\10611171_作業3-2\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Msi gf63\Desktop\VS2013\10611171_作業3-2\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
